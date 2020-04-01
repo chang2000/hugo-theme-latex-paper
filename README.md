@@ -1,23 +1,29 @@
-# Blank
+# LaTeX Paper Hugo Theme
 
-Blank — starter [Hugo](https://gohugo.io/) theme for developers. Use it to make your own theme.
+LaTeX Paper — a [Hugo](https://gohugo.io/) theme for LaTeX style lovers.
 
-[Live Demo](https://themes.gohugo.io/theme/blank/)
+This Project is highly inspired by one of the [Typora theme](https://theme.typora.io/theme/paper/).
 
-![Blank theme screenshot](https://github.com/Vimux/blank/blob/master/images/splash.png)
+**We are just starting! Come and join us!**
+
+Here is the showcase
+
+
+
+![](./images/screenshot.png)
 
 ## Installation
 
 In your Hugo site `themes` directory, run:
 
-```
-git clone https://github.com/vimux/blank
+```bash
+git clone https://github.com/chang2000/hugo-theme-latex-paper latex
 ```
 
 Next, open `config.toml` in the base of the Hugo site and ensure the theme option is set to `blank`.
 
 ```
-theme = "blank"
+theme = "latex"
 ```
 
 For more information read the official [quick start guide](https://gohugo.io/getting-started/quick-start/) of Hugo.
